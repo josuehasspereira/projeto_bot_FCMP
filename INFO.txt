@@ -1,0 +1,2 @@
+bot2ML.js esta com problema ao selecionar os anuncios específicos, não separa, apenas esta pesquisando
+botML.py esta com problema no path do webdriver, ele fecha após alguns segundos
